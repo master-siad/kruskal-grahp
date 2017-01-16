@@ -22,4 +22,4 @@ You could define your default grahp
 
 To get the result click on 'le Poids minimal'
 
-[Imgur](http://i.imgur.com/BXVWFXa.png)
+![Imgur](http://i.imgur.com/BXVWFXa.png)
