@@ -129,6 +129,8 @@ function getNodes()
         ['id' => 8, 'label' => 'user8'],
         ['id' => 9, 'label' => 'user9'],
         ['id' => 10, 'label' => 'user10'],
+        ['id' => 11, 'label' => 'user11'],
+        ['id' => 12, 'label' => 'user12'],
     ];
 }
 
@@ -148,6 +150,9 @@ function getEdges()
         ['from' => 7, 'to' => 9, 'label' => 22],
         ['from' => 9, 'to' => 10, 'label' => 17],
         ['from' => 10, 'to' => 1, 'label' => 1],
+        ['from' => 11, 'to' => 1, 'label' => 1],
+        ['from' => 12, 'to' => 12, 'label' => 14],
+        ['from' => 12, 'to' => 0, 'label' => 5],
     ];
 }
 
