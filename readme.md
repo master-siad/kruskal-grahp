@@ -8,7 +8,7 @@ Install composer dependencies: `composer install`
 Run server: `php artisan serve`
 
 
-then link `localhost:8000/`
+Then `localhost:8000/`
 
 
 #Simulation de Kruskal : 
@@ -20,6 +20,6 @@ You could define your default grahp
 
 ![Imgur](http://i.imgur.com/awNUbkM.png)
 
-To get the result click on 'le Poids minimal'
+To get the result click on 'le Poids minimal' **button**
 
-[Imgur](http://i.imgur.com/BXVWFXa.png)
+![Imgur](http://i.imgur.com/BXVWFXa.png)
